@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Leonardo Nogueira Sanches
-## Seja bem vindo ao meu portfólio!
+## Seja bem vindo ao meu portfólio! :)
 
 🎯 **Analista de Dados | Business Intelligence**
 📍 Fernandópolis - SP / Brasil (Possibilidade de mudança) 
