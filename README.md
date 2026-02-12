@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Leonardo Nogueira Sanches</h1>
+<h1 align="center">👋 Olá, meu nome é Leonardo Nogueira Sanches</h1>
 
 <h3 align="center">Seja bem vindo ao meu portfólio! :)</h3>
 
