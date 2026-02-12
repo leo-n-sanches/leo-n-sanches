@@ -2,7 +2,9 @@
 ## Seja bem vindo ao meu portfólio! :)
 
 🎯 **Analista de Dados | Business Intelligence**
+
 📍 Fernandópolis - SP / Brasil (Possibilidade de mudança) 
+
 🔗 [LinkedIn](www.linkedin.com/in/leonardo-nogueira-sanches) • 📧 [leo.n.sanches@hotmail.com]
 
 ---
@@ -42,10 +44,10 @@ Atualmente estou aprofundando meus conhecimentos em:
 > 📌 **Em construção** — os projetos abaixo serão publicados neste perfil.
 
 - 🔹 **Projeto 1 — Análise Exploratória de Dados (EDA) - Consulta publica de dados da produção nacional de carne bovina entre 2021-2025**  
-  Elaboração das perguntas relevantes para exploração dos dados.
-  Busca dos dados em fontes de consulta pública e extração desses dados.
-  Tratamento completo do conjunto de dados reais utilizando arquitetura medalhão no Supabase(Postgresql), com limpeza, correção de tipagems e criação de VIEWS performaticas para analitycs.
-  Elaboração de visualizações em power bi para insights relevantes e baseados em dados (data-driven).
+Elaboração das perguntas relevantes para exploração dos dados.
+Busca dos dados em fontes de consulta pública e extração desses dados.
+Tratamento completo do conjunto de dados reais utilizando arquitetura medalhão no Supabase(Postgresql), com limpeza, correção de tipagems e criação de VIEWS performaticas para analitycs.
+Elaboração de visualizações em power bi para insights relevantes e baseados em dados (data-driven).
 
 - 🔹 **Projeto 2 — Em construção...**  
   ...
