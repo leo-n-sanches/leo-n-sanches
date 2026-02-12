@@ -1,17 +1,20 @@
-# 👋 Olá, eu sou Leonardo Nogueira Sanches
-## Seja bem vindo ao meu portfólio! :)
+<h1 align="center">👋 Olá, eu sou Leonardo Nogueira Sanches</h1>
+
+<h3 align="center">Seja bem vindo ao meu portfólio! :)</h3>
 
 🎯 **Analista de Dados | Business Intelligence**
 
 📍 Fernandópolis - SP / Brasil (Possibilidade de mudança) 
 
-🔗 [LinkedIn](www.linkedin.com/in/leonardo-nogueira-sanches) • 📧 [leo.n.sanches@hotmail.com]
+🔗 [LinkedIn](www.linkedin.com/in/leonardo-nogueira-sanches)  
+📧 leo.n.sanches@hotmail.com
 
 ---
 
 ## 🧠 Sobre mim
 
 Sou um profissional da área de **Dados**, com foco em **análise, visualização e geração de insights para tomada de decisão**.  
+
 Tenho experiência trabalhando com **dados de negócio**, criando uma **arquitetura de dados** eficiente, com pipeline de **modelagem e tratamento** dos dados, que resultam na construção de **dashboards**, sempre buscando transformar dados brutos em informações, que **respondam as perguntas certas**, e que **gerem impacto positivo** na empresa.
 
 Atualmente estou aprofundando meus conhecimentos em:
@@ -43,13 +46,14 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 > 📌 **Em construção** — os projetos abaixo serão publicados neste perfil.
 
-- 🔹 **Projeto 1 — Análise Exploratória de Dados (EDA) - Consulta publica de dados da produção nacional de carne bovina entre 2021-2025**  
-Elaboração das perguntas relevantes para exploração dos dados.
-Busca dos dados em fontes de consulta pública e extração desses dados.
-Tratamento completo do conjunto de dados reais utilizando arquitetura medalhão no Supabase(Postgresql), com limpeza, correção de tipagems e criação de VIEWS performaticas para analitycs.
-Elaboração de visualizações em power bi para insights relevantes e baseados em dados (data-driven).
+🔹**Projeto 1 — Análise Exploratória de Dados - Consulta pública da produção nacional de carne bovina entre 2021-2025**  
+- Elaboração das perguntas relevantes para exploração dos dados.  
+- Busca dos dados em fontes de consulta pública e extração desses dados.  
+- Tratamento completo do conjunto de dados reais utilizando arquitetura medalhão no Supabase(Postgresql), com limpeza, correção de tipagems e criação de VIEWS performaticas para analitycs.  
+- Elaboração de visualizações em power bi para insights relevantes e baseados em dados (data-driven).
 
-- 🔹 **Projeto 2 — Em construção...**  
+
+🔹 **Projeto 2 — Em construção...**  
   ...
 
 📁 Veja todos os projetos nos repositórios abaixo ⬇️
