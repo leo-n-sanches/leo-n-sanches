@@ -51,10 +51,11 @@ Atualmente estou aprofundando meus conhecimentos em:
 - Busca dos dados em fontes de consulta pública e extração desses dados.  
 - Tratamento completo do conjunto de dados reais utilizando arquitetura medalhão no Supabase(Postgresql), com limpeza, correção de tipagems e criação de VIEWS performaticas para analitycs.  
 - Elaboração de visualizações em power bi para insights relevantes e baseados em dados (data-driven).
-
+  
 
 🔹 **Projeto 2 — Em construção...**  
-  ...
+- ...  
+  
 
 📁 Veja todos os projetos nos repositórios abaixo ⬇️
 
@@ -100,10 +101,12 @@ Com foco em:
 
 ## 📬 Contato
 
-📧 Email: [leo.n.sanches@hotmail.com]  
+📧 Email: leo.n.sanches@hotmail.com  
 💼 LinkedIn: www.linkedin.com/in/leonardo-nogueira-sanches  
 
 ---
 
 ⭐ Se algum projeto te ajudar ou chamar atenção, fique à vontade para explorar ou entrar em contato.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=leo-n-sanches.github-readme-stats)
 
